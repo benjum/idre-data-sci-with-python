@@ -1,8 +1,6 @@
 openpyxl
 pandas
 numpy
-csv
-os
 requests
 matplotlib
 seaborn
@@ -10,5 +8,4 @@ plotly
 altair
 yahoo_fin
 ipywidgets
-math
 bs4
