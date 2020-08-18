@@ -1,6 +1,5 @@
 openpyxl
 pandas
-numpy
 json
 csv
 os
