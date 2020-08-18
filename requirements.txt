@@ -9,3 +9,6 @@ altair
 yahoo_fin
 ipywidgets
 bs4
+xlrd
+requests_html
+lxml
