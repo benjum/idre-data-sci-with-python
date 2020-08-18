@@ -1,5 +1,3 @@
-# idre-data-sci-with-python
-
 # Introduction to Data Science with Python Part 1
   
 This repository is maintained by Ben Winjum and Yoh Kawano for use in UCLA IDRE's introductory class "Introduction to Data Science with Python".
