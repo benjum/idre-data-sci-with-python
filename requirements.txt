@@ -1,6 +1,6 @@
 openpyxl
 pandas
-json
+numpy
 csv
 os
 requests
