@@ -12,3 +12,10 @@ bs4
 xlrd
 requests_html
 lxml
+geopandas
+keplergl
+tensorflow
+sklearn
+sodapy
+torch
+torchvision
