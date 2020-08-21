@@ -13,8 +13,8 @@ This repository is maintained by Ben Winjum and Yoh Kawano for use in UCLA IDRE'
 
 ## Viewing the Workshop
 
-* A recording of the workshop is available on YouTube:
-  * Part 1 (August 18, 2020) [https://youtu.be/KO8kikS6iAY](https://youtu.be/KO8kikS6iAY)
-  * Part 2 (August 19, 2020) [https://youtu.be/l4O93YNnLjk](https://youtu.be/l4O93YNnLjk)
-* Please note that the current notebooks in this repository are only the completed versions of notebooks discussed on the video.
+* A recording of the workshop given on August 18 and 19, 2020, is available on YouTube:
+  * Part 1: [https://youtu.be/KO8kikS6iAY](https://youtu.be/KO8kikS6iAY)
+  * Part 2: [https://youtu.be/l4O93YNnLjk](https://youtu.be/l4O93YNnLjk)
+* Please note that the notebooks in this repository are only the completed versions of notebooks discussed on the video.
 
